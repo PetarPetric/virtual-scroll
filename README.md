@@ -1,4 +1,4 @@
-# utopia-task
+# virtual-scroll
 
 ## Project setup
 ```
